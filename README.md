@@ -9,3 +9,5 @@ These files include the 1D offaxis PSFs from IPAC, however, the PROPER PSFs can 
 The interpolated arrays of PSFs can then be created using the create-interpolated_psfs_array.ipynb file. 
 
 Once those steps are done, the simulation can be run with the run_simulations.ipynb file. 
+
+[![DOI](https://zenodo.org/badge/283349486.svg)](https://zenodo.org/badge/latestdoi/283349486)
